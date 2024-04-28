@@ -15,7 +15,6 @@ public class Calculator {
 	private JTextField tfSecond;
 	private JTextField tfResult;
 	private JButton b1, b2, b3, b4, b5, b6, b7, b8, b9, b10, b11;
-	private ImageIcon img;
 	private JDialog about;
 	private JDialog howToUse;
 	
@@ -42,7 +41,6 @@ public class Calculator {
 		b9 = new JButton("pct.");
 		b10 = new JButton("%");
 		b11 = new JButton("Clear");
-		img = new ImageIcon("F:\\Descargas\\Eclipse Workshop\\src\\calc.png");
 	}
 	
 	// Creating the frame:
@@ -145,7 +143,6 @@ public class Calculator {
 		frame.add(p4);
 		frame.setJMenuBar(mb);
 		frame.setBackground(Color.DARK_GRAY);
-		frame.setIconImage(img.getImage());
 		
 		frame.pack();
 		frame.setVisible(true);

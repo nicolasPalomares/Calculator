@@ -5,3 +5,5 @@ As the name indicates, this Java program is a simple and intuitive calculator. I
 world of programming.
 
 A .JAR file is included in the project folder. It was made with JDK 18.
+
+![javaw_HwD6PYYNZM](https://github.com/nicolasPalomares/Calculator/assets/106792719/d6e4d9d4-3893-4f9c-ad92-6855f8d65cdc)
